@@ -8,7 +8,7 @@ I also hold a Master’s degree in AI and am currently pursuing a PhD in Compute
 
 ### 🛠️ Tech Focus
 
-- **Backend:** .NET (C#), gRPC, Web APIs, Async/Parallel processing  
+- **Backend:** .NET (C#), gRPC, Web APIs
 - **Datastores:** SQL Server, Redis, Elasticsearch  
 - **Messaging & Distributed Systems:** RabbitMQ, microservices, caching strategies  
 - **Observability:** OpenTelemetry, Grafana, Loki  
